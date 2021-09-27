@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jungsanbot",
+  "private_key_id": "aee26811d8658953fce979af63e0183969a6897b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDdRMtFFwVahbKz\nbCV2MmlrrFBkeyH5Dka6MkLX1XV1JVhZCKjPPendhW6pLibwcVSRzr91ODTCw0j/\nh+XtaVR6Ro/PjXyyn/kKSaQ4p7BrO6LWHvWxfbjXH1QruuKWPj3Ud4Oa+ZbpsK51\nLO7c0m5mKwDu3bjhZODGI3DN/eCj2rerEe/qFv21mpk/WPlRlnLgBwUoocspDWqR\nCqO5HDOmTWMkmyO8z/gNiZuE9pzHvmGXFKnv+omXG2rICo0kXdF0ieyO207DiNo1\ng5rFYyDMtcHqmYWmIQYlw9bjlpyCZV3Zs3f8WLTlV29pArM3LTchCYAVNT0dOqmV\nUS9cxZ1jAgMBAAECggEACOEn3x/rYRSYdUbTwgiH3oBNwZqHZH1ELVizAgJY8liL\nURdd3uM3LWKbbEKj4WZK5IcNe+DDjUVU+pwzh/GAKGAIiWW+KVTuI5GM+5EPLV55\nTGp1pafL8SYatJ6NVUYuKQaay29UtRAYEC+7bjUrpQH4yZ0wPCtWMd1eO4YCq9Ca\nBxno6mOzzKBp7bTCxsUEFKlkHD2meBS3Yd8p1OrN7opkY7ivNTfX1abGZ8Q8xt8J\nOF2qV+4QSub88U5nwEk4HdCECMcu9eDE0VW7lVtG05hi7t3dbNSsJMPMeVYH0r/V\ntPnQ8D0GBTyWh5nzgd7vlgdtXruJcl2ta2amcB/98QKBgQD85SOpAyByxGDaTbaY\nQSU0nJhMbtkfJrxW3Df+9JnqpSnSH3rUDUEU6BdxJ0uZa6G0UGZJUf87UHgXOtZb\nveuaBa0o9vb1LfxVIIT10F9GcNB+lPyDC4112irYcM0YfaFquqKwOq7Bb+x+3Cm1\nXz0pYf6xCF4ufv1EiKdGTluEbwKBgQDf/EBtzvUpYI9ZgW7wALGZNXeaAKtmuvMZ\nrx/Dtp/88xc2GEtwZqWP37E8OTNtvXf4rJsJDUwTMeCqJ3ON/8HM2B74B7ZugYYH\nHbOaulVnnAVVUUC0eH+cnV4UucuLVyWiDpB/IwGHxu2XLNM876Un7wdc9Dj2SwDf\nAcFJimG4TQKBgEGGyb+gLMcv9Px7iGVY89/290tOqXl12vUSqHuqOzteQkDMoVHS\ngVt+a5yJFwCQr9x9vJMg6OYgio1SVHp+8k39TInBu+l5WdlgzLK4pAcncg5qYic+\nVhAEUHe2ep3u52U1KLRK8D701i1ktHXnUHyphImwZl7bzpn0YotIAFSHAoGAW3l8\nopvr+esKgEZhFTljTqvMXaO6XGkrUSj5MwfJjReGOjxvysbRBNIZYvwFaeMANRng\n8zBwCkLLexJDmhGCh3MYKrmTosvY/dz+dcl1iavpba+SWmH/0+lc+9/pJc4Ae4+x\nKYsVW+s9KwlOd8tzSrzO6AKBpOx6vZjM5IjUYd0CgYAoDGRusAGiZQ44ZntAsCIs\n6HoNApQbURG8ICpCbEOy5Qb5uHeIChVUu/lOtdudQ2hzWt2ewMg1CPREBqxM1UI2\nkXDVsSUAKd+sMXcvUNRWwYSK60kCJQJw8odnfilBG5YX7a4vDSWNcJ9OuLPgY3jS\nFj+keYagecyoGnpagtXIVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jungsanbot@jungsanbot.iam.gserviceaccount.com",
+  "client_id": "114338877503802819325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jungsanbot%40jungsanbot.iam.gserviceaccount.com"
+}
